@@ -4,8 +4,12 @@ spring:
       server:
         native:
           git:
-            uri:
-            
+            uri: "https://github.com/thanthanwinn/config-server-microservices-.git"
+            default-label: main
+            time-out: 5
+            clone-on-start: true
+            force-pull: true
+
           #search-locations: "file:///Users/ttw/blah/blah"
         #search-locations: classpath:/config
   profiles:
