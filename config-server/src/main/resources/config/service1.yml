@@ -1,0 +1,7 @@
+user:
+  username: thanthanwin
+  email: thanthanwin17@gmail.com
+  service: service1
+
+server:
+  port: 8484
