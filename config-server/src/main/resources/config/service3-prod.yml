@@ -1,6 +1,6 @@
 user:
-  username: thanthanwin-prod
-  email: thanthanwin17@gmail.com-prod
+  username: thanthanwin-production
+  email: thanthanwin17@gmail.com-production
   service: service3-prod
 
 server:
