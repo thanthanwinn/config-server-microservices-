@@ -1,7 +1,7 @@
 user:
-  username: thanthanwin-prod3
+  username: thanthanwin-prod33
   email: thanthanwin17@gmail.com-prod
-  service: service3-prod3
+  service: service3-prod33
 
 server:
   port: 8486
