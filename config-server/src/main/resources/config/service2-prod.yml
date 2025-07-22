@@ -1,7 +1,7 @@
 user:
-  username: thanthanwin-production2222
-  email: thanthanwin17@gmail.com-production2222
-  service: service2-production2222
+  username: thanthanwin-production
+  email: thanthanwin17@gmail.com-production
+  service: service2-production
 
 server:
   port: 8485
